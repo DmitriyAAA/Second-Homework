@@ -10,7 +10,7 @@
 
 
     <TextView
-        android:textColor="@color/black"
+        android:textColor="@color/colorAccent"
         android:id="@+id/text_output"
         android:layout_gravity="center"
         android:layout_width="wrap_content"
